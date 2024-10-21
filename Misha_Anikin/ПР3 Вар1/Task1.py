@@ -1,6 +1,4 @@
-import math
-
-a=int(input("Введіть катет a:"))
-b=int(input("Введіть катет b:"))
-S=a*b*0.5
+a = int(input("Введіть a: "))
+b = int(input("Введіть b: "))
+S = a*b*0.5
 print(S)
