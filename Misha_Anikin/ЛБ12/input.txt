@@ -1,0 +1,8 @@
+Awkward   gaps, an  abnormally       large area of white
+space between   text, are the bane     of a  typesetter's
+existence   . They crop up   on their own  , often through 
+automatic  decisions from   your chosen               software.
+	They create a white (or  creme) smudge on beautifully printed
+paper, and they  stick out    to readers . As part of preparing your manuscript
+to    go to the printer, you   need to  ensure there   aren't any awkward
+gaps in your work.
